@@ -12,12 +12,12 @@ Junior High School (11-14)
 
 ---
 #Overall
-In this activity, students make a introduction movie about their own country, and presentation for others.
+In this activity, student know about whatis temperature and how to make it.
 
 
 ---
 #Educational Effect
-* Search information and Remixing
+* Student can measuring temperature using Themperature
 
 skill
 
@@ -27,6 +27,6 @@ skill
 ---
 #Item/Material/System
 * PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
-* Popcorn Maker
+* Thimble Maker
 * Screen for presentation
 ---
